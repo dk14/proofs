@@ -1,5 +1,5 @@
 # proofs
-Proofs of simple mathematical statements
+Proofs of simple mathematical properties
 
 - [`binary.v`](binary.v) Inductive proof that given binary to unary conversion holds for:
   - bin2nat(code + 1) ≡ bin2nat(code) + 1
